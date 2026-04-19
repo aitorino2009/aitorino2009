@@ -1,4 +1,4 @@
-### 🚀 Estudiante de SMR ((Sistemas Microinformáticos y Redes)
+### 🚀 Estudiante de SMR (**S**istemas **M**icroinformáticos y **R**edes)
 Me apasiona convertir ideas en código y aprender nuevas tecnologías cada día. 
 
 - 🎓 Actualmente estudiando en **Sant Josep Obrer**.
