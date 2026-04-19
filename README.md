@@ -2,7 +2,7 @@
 Me apasiona convertir ideas en código y aprender nuevas tecnologías cada día. 
 
 - 🎓 Actualmente estudiando en **Sant Josep Obrer**.
-- 🛠️ Enfocado en: **Frontend, Markdown y Estructuración de datos**.
+- 🛠️ Enfocado en: **Estructuración de datos, Linux y Domótica**.
 - 📫 Cómo contactarme: aportalesc30@alumnes.santjosepobrer.com / aitorp2009@gmail.com
 
 ### 🛠️ Tecnologías que utilizo
