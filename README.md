@@ -1,4 +1,4 @@
-### 🚀 Estudiante de Desarrollo de Aplicaciones
+### 🚀 Estudiante de SMR ((Sistemas Microinformáticos y Redes)
 Me apasiona convertir ideas en código y aprender nuevas tecnologías cada día. 
 
 - 🎓 Actualmente estudiando en **Sant Josep Obrer**.
