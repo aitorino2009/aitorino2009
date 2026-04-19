@@ -14,6 +14,4 @@ Me apasiona convertir ideas en código y aprender nuevas tecnologías cada día.
 ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white)
 
 ### 📊 Mis Estadísticas
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aitorino2009&show_icons=true&theme=github_light&hide_border=true" alt="Stats de Aitor" />
-</p>
+![Stats de Aitor](https://github-readme-stats.vercel.app/api?username=aitorino2009&show_icons=true&theme=github_light&hide_border=true)
